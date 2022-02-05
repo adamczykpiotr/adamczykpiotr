@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Profile stats](https://github-readme-stats.vercel.app/api?username=adamczykpiotr&hide=issues&show_icons=true&include_all_commits=true)](https://github.com/adamczykpiotr)
+[![Profile stats](https://github-readme-stats.vercel.app/api?username=adamczykpiotr&hide=issues&show_icons=true&include_all_commits=true&theme=radical)](https://github.com/adamczykpiotr)
 
 
 <!--
